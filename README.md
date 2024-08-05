@@ -1,3 +1,3 @@
 # odin-recipes
 
-project 1
+project 1gi
