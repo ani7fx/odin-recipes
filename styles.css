@@ -1,0 +1,21 @@
+h1{
+    color:aqua;
+    background-color: red;
+    padding: 20px;
+    text-align: center;
+}
+
+.lasagna{
+    color:green;
+    background-color: yellow;
+}
+
+#dk{
+    color:burlywood;
+    background-color: brown;
+}
+
+li{
+    margin-bottom: 10px;
+    
+}
